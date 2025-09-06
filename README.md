@@ -39,8 +39,8 @@ The workflow follows a **real-world data analytics pipeline**: Data Cleaning →
 
 ```
 📂 data/                # HR dataset (CSV, link to Kaggle if not uploaded)
-📂 R_Code/              # R scripts for EDA & Logistic Regression
-📂 dashboard/           # Power BI .pbix + screenshots
+📂 R_Program/              # R scripts for EDA & Logistic Regression
+📂 Power_BI/           # Power BI .pbix + screenshots
 📂 docs/                # Final Word/PDF report
 📄 README.md            # Project summary
 ```
