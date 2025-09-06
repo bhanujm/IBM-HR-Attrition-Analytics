@@ -1,7 +1,7 @@
 # 📊 IBM HR Attrition Analytics
 
-Prepared by: Bhavana J M
-Tools Used: Excel, R (tidyverse, glm), Power BI, AI
+**Prepared by:** Bhavana J M
+**Tools Used:** Excel, R (tidyverse, glm), Power BI, AI
 
 ---
 
@@ -38,7 +38,7 @@ The workflow follows a **real-world data analytics pipeline**: Data Cleaning →
 ## 📂 Project Structure
 
 ```
-📂 data/                # HR dataset (CSV, link to Kaggle if not uploaded)
+📂 Excel_Data/                # HR dataset (CSV, link to Kaggle if not uploaded)
 📂 R_Program/              # R scripts for EDA & Logistic Regression
 📂 Power_BI/           # Power BI .pbix + screenshots
 📂 docs/                # Final Word/PDF report
